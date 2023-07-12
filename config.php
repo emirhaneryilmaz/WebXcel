@@ -1,5 +1,7 @@
 <?php
 
+// Database Configurations
+
 define('SERVERNAME', 'localhost');
 define('USERNAME', 'root');
 define('PASSWORD', '');
